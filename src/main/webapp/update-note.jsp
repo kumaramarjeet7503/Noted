@@ -1,3 +1,12 @@
+<%@page import="com.helper.FactoryProvider"%>
+<%@page import="org.hibernate.Session"%>
+<%@page import="java.util.List"%>
+<%@page import="com.entities.Note"%>
+
+<%
+ 	//Session s = FactoryProvider.getFactory().openSession() ;
+	//s.get(Note,)
+%>
 <!doctype html>
 <html lang="en">
 <head>

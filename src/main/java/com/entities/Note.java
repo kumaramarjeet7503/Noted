@@ -1,5 +1,4 @@
 package com.entities;
-
 import java.util.Date;
 import org.hibernate.*;
 import jakarta.persistence.*;

@@ -43,8 +43,8 @@
 				<div ><h5 class="card-title"><%= note.getTitle() %></h5></div>
 				<p class="card-text"><%= note.getDescription() %></p>
 				<div style="float : right">
-				<a href="" class="btn btn-danger">update</a>
-				<a href="#" class="btn btn-light">delete</a>
+				<a href="update-note.jsp" class="btn btn-danger">update</a>
+				<a href="delete-note?id=<%= note.getId()%>" class="btn btn-light">delete</a>
 				</div>
 				</div>
 				</div>
