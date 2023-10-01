@@ -27,7 +27,7 @@
 			<div class="card" style="margin-bottom : 5px">
 			<img class="card-img-top" src="img/notes.png" style="width: 50%"  alt="Card image cap">
 			<div class="card-body">
-				<div ><h5 class="card-title">Please create a Note !</h5></div>
+				<div ><h5 class="card-title text-white">Please create a Note !</h5></div>
 			</div>
 		</div>
 		<% } %>

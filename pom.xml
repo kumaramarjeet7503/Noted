@@ -26,6 +26,11 @@
 			<artifactId>hibernate-core</artifactId>
 			<version>6.0.0.Final</version>
 		</dependency>
+		<dependency>
+			<groupId>jakarta.persistence</groupId>
+			<artifactId>jakarta.persistence-api</artifactId>
+			<version>3.0.0</version> <!-- Replace with the latest version -->
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>Noted</finalName>
